@@ -55,7 +55,7 @@
     "@feathersjs/koa": "^5.0.1",
     "@feathersjs/mongodb": "^5.0.1",
     "@feathersjs/schema": "^5.0.1",
-    "@feathersjs/socketio": "^5.0.1",
+    "@feathersjs/socketio": "^5.0.8",
     "@feathersjs/transport-commons": "^5.0.1",
     "@feathersjs/typebox": "^5.0.1",
     "mongodb": "^5.1.0",
